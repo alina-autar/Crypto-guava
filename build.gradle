@@ -22,7 +22,7 @@ dependencies {
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
     implementation(
         'org.slf4j:slf4j-api:2.0.9',
-        'com.google.guava:guava:31.1-jre'
+        'com.google.guava:guava:33.7.2-jre'
     )
 
     // Use JUnit test framework
